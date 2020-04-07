@@ -1,0 +1,10 @@
+.git
+.gitignore
+.githooks
+
+node_modules
+docs
+tests
+out
+
+*.md
