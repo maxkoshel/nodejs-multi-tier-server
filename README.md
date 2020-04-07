@@ -1,4 +1,4 @@
-# Server Aritecture
+# Server Architecture
 
 ## Data layer
 
