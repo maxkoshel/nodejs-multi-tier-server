@@ -1,0 +1,7 @@
+app:
+  port: 3000
+database:
+  dbName: less
+  protocol: mongodb
+  host: localhost
+  port: 27017
